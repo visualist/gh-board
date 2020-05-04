@@ -210,3 +210,6 @@ Just specify a GitHub repository in the URL and off you go!
 [dependency-url]: https://david-dm.org/philschatz/gh-board
 [dev-dependency-image]: https://img.shields.io/david/dev/philschatz/gh-board.svg
 [dev-dependency-url]: https://david-dm.org/philschatz/gh-board?type=dev
+
+# Wade notes
+ - making a commit, as suggested
